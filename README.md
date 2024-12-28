@@ -66,3 +66,7 @@ Si deseas comenzar de nuevo, presiona el botón "C" para borrar la entrada y los
 ## Capturas de pantalla
 ![Pantalla de inicio](/Imagenes/Bievenida.png)
 ![Pantalla suma](/Imagenes/suma.png)
+![Pantalla resta](/Imagenes/resta.png)
+![Pantalla multiplicacion](/Imagenes/mult.png)
+![Pantalla division](/Imagenes/division.png)
+![Pantalla resultado](/Imagenes/result.png)
