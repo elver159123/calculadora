@@ -70,3 +70,27 @@ Si deseas comenzar de nuevo, presiona el botón "C" para borrar la entrada y los
 ![Pantalla multiplicacion](/Imagenes/mult.png)
 ![Pantalla division](/Imagenes/division.png)
 ![Pantalla resultado](/Imagenes/result.png)
+
+## Contribución
+
+Si deseas contribuir a este proyecto:
+
+1. Haz un fork del repositorio.
+2. Crea una rama nueva para tus cambios:
+   ```bash
+   git checkout -b mi_rama_nueva
+   ```
+3. Realiza tus cambios y haz commit:
+   ```bash
+   git commit -m "Descripción de mis cambios"
+   ```
+4. Sube tus cambios al repositorio remoto:
+   ```bash
+   git push origin mi_rama_nueva
+   ```
+5. Abre un Pull Request en GitHub.
+
+
+## Autor
+
+Desarrollado por Andy Yanacallo (https://github.com/elver159123).
