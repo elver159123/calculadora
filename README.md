@@ -64,3 +64,5 @@ Haz clic en el botón "=" para obtener el resultado.
 Si deseas comenzar de nuevo, presiona el botón "C" para borrar la entrada y los resultados.
 
 ## Capturas de pantalla
+![Pantalla de inicio](/Imagenes/Bievenida.png)
+![Pantalla suma](/Imagenes/suma.png)
